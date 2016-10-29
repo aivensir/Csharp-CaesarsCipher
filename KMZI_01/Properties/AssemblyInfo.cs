@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("KMZI_01")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("CaesarsCipher")]
+[assembly: AssemblyDescription("KMZI_lab_01")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("KMZI_01")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("FCS, OmSU")]
+[assembly: AssemblyProduct("ProgramMenu")]
+[assembly: AssemblyCopyright("Copyright by Georgii Ivanyuk ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
