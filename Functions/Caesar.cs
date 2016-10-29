@@ -35,7 +35,7 @@ namespace Functions
                 }
             }
             
-            Byte[] b = File.ReadAllBytes(filename);
+            Byte[] b = File.ReadAllBytes(filename); //program works with only characters that have code of Russian letters, for Bytes is 223 to 255
             byte tmp;
             for (int i = 0; i < b.Length; i++)
             {
